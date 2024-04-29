@@ -26,3 +26,7 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+- [x] [Design new landing page](https://github.com/octocat/octoproject/issues/4)
+- [ ] [Translate content into supported languages]
