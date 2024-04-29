@@ -28,5 +28,22 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-- [x] [Design new landing page](https://github.com/octocat/octoproject/issues/4)
-- [ ] [Translate content into supported languages]
+
+- [x] install
+<details>
+<summary></summary>
+
+```bash
+npx create-next-app@latest
+```
+TypeScript ❌
+eslint ✔️
+tailwind ✔️
+SRC ✔️
+app router ✔️
+import alias ❌
+
+</details>
+
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
